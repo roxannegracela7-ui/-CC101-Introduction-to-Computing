@@ -16,12 +16,12 @@ This repository contains my laboratory outputs and documentation for *CC 101 Int
 | Academic Year | 2026–2027 |
 
 ## Portfolio Contents
-1. [Activity 1 - ](activity1/)
-2. [Activity 2 - ](activity2/)
-3. [Activity 3 - ](activity3/)
-4. [Activity 4 - ](activity4/)
-5. [Activity 5 - ](activity5/)
-6. [Activity 6 - ](activity6/)
+1. [Activity 1 - Career Pathways](/activity1/)
+2. [Activity 2 - Know your machine](/activity2/)
+3. [Activity 3 - Exploring Windows Command Line](/activity3/)
+4. [Activity 4 - Base Conversion Laboratory](/activity4/)
+5. [Activity 5 - Know your Networks](/activity5/)
+6. [Activity 6 - Problem to Readme](/activity6/)
 
 ---
 *Last updated: 2026-10-17*
